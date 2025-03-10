@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ryan-sam-daniel
 - 👀 I’m interested in Learning New Stuff
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Company which offers work-life balance
 - 📫 How to reach me edu.ryan.grad@gmail.com
 
 <!---
